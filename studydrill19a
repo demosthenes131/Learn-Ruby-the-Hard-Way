@@ -1,0 +1,8 @@
+def dresden(wizards, vampires, wands)
+  puts "We have #{number_of_wizards} able to defend the city!"
+  puts "There are #{number_of_vampires} plaguing the populace."
+  puts "We only have #{number_of_wands} available."
+end
+
+puts "Using direct method."
+dresden(10, 18, 25)
